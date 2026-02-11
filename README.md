@@ -49,14 +49,6 @@ Customers selecting additional services and traveling on longer or high-value ro
 - Seaborn
 - Jupyter Notebook
 
-## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
 ## Project Structure
 ba-customer-booking-prediction/
 │
