@@ -49,7 +49,6 @@ Customers selecting additional services and traveling on longer or high-value ro
 - Seaborn
 - Jupyter Notebook
 
-## Project Structure
 ## Technologies Used
 - Python
 - Pandas
@@ -66,8 +65,6 @@ ba-customer-booking-prediction/
 │   └── analysis.ipynb
 ├── outputs/
 │   └── feature_importance.png
-├── presentation/
-│   └── BA_prediction_summary.pptx
 ├── requirements.txt
 └── README.md
 
