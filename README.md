@@ -60,6 +60,11 @@ ba-customer-booking-prediction/
 ├── requirements.txt
 └── README.md
 
+## Feature Importance (Random Forest)
+
+![Feature Importance](outputs/feature_importance.png)
+
+
 ## Author
 **Yashvardhan Shah**  
 B.Tech Computer Science (AI & ML)  
